@@ -1,4 +1,4 @@
-# js-learning-geetha 
+~js-learning-geetha 
 
 
 This is repository is created for learning git and github.
